@@ -1,0 +1,19 @@
+.button {
+    float:right;
+    padding: 8px 16px;
+    font-size: 14px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .button.small {
+    width:40px;
+    padding: 12px 24px;
+    font-size: 14px;
+  }
+  .button.big {
+    height:45px;
+    width:70px;
+    font-size: 16px;
+  }
